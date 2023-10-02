@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rsm:SPSCertificate xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:21"
+                    xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:21"
+                    xmlns:rsm="urn:un:unece:uncefact:data:standard:SPSCertificate:17"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="urn:un:unece:uncefact:data:standard:SPSCertificate:17 ../Certificado%20fitosanitario%20de%20exportaci%C3%B3n%20(XSD)/data/standard/SPSCertificate_17p0.xsd">
+    <rsm:SPSExchangedDocument>
+        <ram:Name>NULL</ram:Name>
+        <ram:ID>{id}</ram:ID>
+        <ram:TypeCode>{typeCode}</ram:TypeCode>
+        <ram:StatusCode>{statusCode}</ram:StatusCode>
+        <ram:IssueDateTime>
+            <udt:DateTimeString>{currentDateTime}</udt:DateTimeString>
+        </ram:IssueDateTime>
+        <ram:IssuerSPSParty>
+            <ram:Name>{issuerName}</ram:Name>
+        </ram:IssuerSPSParty>
+        <ram:IncludedSPSNote>
+            <ram:Subject>{subject}</ram:Subject>
+            <ram:Content>{content}</ram:Content>
+        </ram:IncludedSPSNote>
+        <ram:IncludedSPSNote>
+            <ram:Subject>{subjectOpcional}</ram:Subject>
+            <ram:Content languageID="en">{contentOpcional}</ram:Content>
+        </ram:IncludedSPSNote>
+        <!--Part2-->
+        <ram:SignatorySPSAuthentication>
+            <ram:ActualDateTime>
+                <udt:DateTimeString>NULL</udt:DateTimeString>
+            </ram:ActualDateTime>
+            <ram:IssueSPSLocation>
+                <ram:Name>{locationName}</ram:Name>
+            </ram:IssueSPSLocation>
+            <ram:ProviderSPSParty>
+                <ram:Name>NULL</ram:Name>
+                <ram:SpecifiedSPSPerson>
+                    <ram:Name>{personName}</ram:Name>
+                </ram:SpecifiedSPSPerson>
+            </ram:ProviderSPSParty>
+            <ram:IncludedSPSClause>
+                <ram:ID>{clauseID}</ram:ID>
+                <ram:Content />
+            </ram:IncludedSPSClause>
+        </ram:SignatorySPSAuthentication>
+    </rsm:SPSExchangedDocument>
+    <!--part2-->
+    <rsm:SPSConsignment>
+        <ram:ConsignorSPSParty>
+            <ram:Name>{consigneeName}</ram:Name>
+            <ram:SpecifiedSPSAddress>
+                <ram:LineOne>{consigneeAddressOne}</ram:LineOne>
+                <ram:LineTwo>{consigneeAddressTwo}</ram:LineTwo>
+                <!--<ram:LineThree>{addressThree}</ram:LineThree>
+                <ram:LineFour>{addressFour}</ram:LineFour>
+                <ram:LineFive>{addressFive}</ram:LineFive>-->
+            </ram:SpecifiedSPSAddress>
+        </ram:ConsignorSPSParty>
+        <ram:ConsigneeSPSParty>
+            <ram:Name>{consignorName}</ram:Name>
+            <ram:SpecifiedSPSAddress>
+                <ram:LineOne>{consignorNameOne}</ram:LineOne>
+                <ram:LineTwo>{consignorNameTwo}</ram:LineTwo>
+                <ram:LineThree>{addressThree}</ram:LineThree>
+                <ram:LineFour>{addressFour}</ram:LineFour>
+                <ram:LineFive>{addressFive}</ram:LineFive>
+            </ram:SpecifiedSPSAddress>
+        </ram:ConsigneeSPSParty>
+        <ram:ExportSPSCountry>
+            <ram:ID>{codPaisEntrada}</ram:ID>
+            <ram:Name>NULL</ram:Name>
+        </ram:ExportSPSCountry>
+        <ram:ImportSPSCountry>
+            <ram:ID>{codPaisSalida}</ram:ID>
+            <ram:Name>NULL</ram:Name>
+        </ram:ImportSPSCountry>
+        <ram:TransitSPSCountry>
+            <ram:ID>{transisContryId}</ram:ID>
+            <ram:Name>{transitName}</ram:Name>
+        </ram:TransitSPSCountry>
+        <!--<ram:UtilizedSPSTransportEquipment>
+            <ram:AffixedSPSSeal>
+                <ram:ID>{affixedId}</ram:ID>
+            </ram:AffixedSPSSeal>
+        </ram:UtilizedSPSTransportEquipment>-->
+        <ram:UnloadingBaseportSPSLocation>
+            <ram:ID>{locationId}</ram:ID>
+            <ram:Name>{paisSalidaName}</ram:Name>
+        </ram:UnloadingBaseportSPSLocation>
+        <ram:ExaminationSPSEvent>
+            <ram:OccurrenceSPSLocation>
+                <ram:Name>NULL</ram:Name>
+            </ram:OccurrenceSPSLocation>
+        </ram:ExaminationSPSEvent>
+        <ram:MainCarriageSPSTransportMovement>
+            <ram:ID>{movementId}</ram:ID>
+            <ram:ModeCode>{medioTransporteCodigo}</ram:ModeCode>
+            <ram:UsedSPSTransportMeans>
+                <ram:Name languageID="en">{medioTransporteNombre}</ram:Name>
+            </ram:UsedSPSTransportMeans>
+        </ram:MainCarriageSPSTransportMovement>
+        <ram:IncludedSPSConsignmentItem>
+            <ram:IncludedSPSTradeLineItem>
+                <ram:SequenceNumeric>{sequenceNumeric}</ram:SequenceNumeric>
+                <ram:Description languageID="en">{description}</ram:Description>
+                <ram:CommonName languageID="en">{commonName}</ram:CommonName>
+                <ram:ScientificName languageID="en">{scientificName}</ram:ScientificName>
+                <ram:IntendedUse languageID="en">{intendedUse}</ram:IntendedUse>
+                <ram:NetWeightMeasure unitCode="LBR">{netWeightMeasure}</ram:NetWeightMeasure>
+                <ram:GrossWeightMeasure unitCode="KGM">{grossWeighMe}</ram:GrossWeightMeasure>
+                <ram:NetVolumeMeasure unitCode="MTQ">{netvolumenMe}</ram:NetVolumeMeasure>
+                <ram:GrossVolumeMeasure unitCode="MTQ">{grossVolumenMe}</ram:GrossVolumeMeasure>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>{adicionalInformacionSujetoObservacion1}</ram:Subject>
+                    <ram:Content>{adicionalInformacionContenidoObservacion1}</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>{adicionalInformacionSujetoObservacion2}</ram:Subject>
+                    <ram:Content>{adicionalInformacionContenidoObservacion2}</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>{additionalSubject}</ram:Subject>
+                    <ram:Content>{additionalContent}</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:ApplicableSPSClassification>
+                    <ram:SystemName>{systemName}</ram:SystemName>
+                    <ram:ClassName languageID="en">{className}</ram:ClassName>
+                    <!--<ram:ClassCode>{classCode}</ram:ClassCode>-->
+                </ram:ApplicableSPSClassification>
+                <ram:OriginSPSCountry>
+                    <ram:ID>{countryId}</ram:ID>
+                    <ram:Name>NULL</ram:Name>
+                    <ram:SubordinateSPSCountrySubDivision>
+                        <ram:Name>{countryName}</ram:Name>
+                        <ram:HierarchicalLevelCode>0</ram:HierarchicalLevelCode>
+                    </ram:SubordinateSPSCountrySubDivision>
+                </ram:OriginSPSCountry>
+                <ram:AppliedSPSProcess>
+                    <ram:TypeCode>{processTypeCode}</ram:TypeCode>
+                    <ram:CompletionSPSPeriod>
+                        <ram:StartDateTime>
+                            <udt:DateTimeString>{periodDateTime}</udt:DateTimeString>
+                        </ram:StartDateTime>
+                        <ram:EndDateTime>
+                            <udt:DateTimeString>{datetimeEnd}</udt:DateTimeString>
+                        </ram:EndDateTime>
+                        <ram:DurationMeasure unitCode="HUR">{durationMeasure}</ram:DurationMeasure>
+                    </ram:CompletionSPSPeriod>
+                    <ram:ApplicableSPSProcessCharacteristic>
+                        <ram:Description>{processCharacteDescriptionCod}</ram:Description>
+                        <ram:Description languageID="en">{processCharacteDescription}</ram:Description>
+                        <!--<ram:ValueMeasure unitCode="CEL">{valueMesure}</ram:ValueMeasure>-->
+                    </ram:ApplicableSPSProcessCharacteristic>
+                </ram:AppliedSPSProcess>
+                <!--<ram:PhysicalSPSPackage>
+                    <ram:LevelCode>{levelCode}</ram:LevelCode>
+                    <ram:TypeCode>{physicalCode}</ram:TypeCode>
+                    <ram:ItemQuantity>{itemQuantity}</ram:ItemQuantity>
+                </ram:PhysicalSPSPackage>-->
+            </ram:IncludedSPSTradeLineItem>
+        </ram:IncludedSPSConsignmentItem>
+    </rsm:SPSConsignment>
+</rsm:SPSCertificate>
+
