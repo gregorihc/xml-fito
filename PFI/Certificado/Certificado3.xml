@@ -53,13 +53,13 @@
                 <ram:ID>G2382</ram:ID>
             </ram:AffixedSPSSeal>
         </ram:UtilizedSPSTransportEquipment>
-        <ram:ConsignorSPSParty>
+        <ram:Consepto>
             <ram:Name>Emerald Seed Company</ram:Name>
             <ram:SpecifiedSPSAddress>
                 <ram:LineOne>1735 Austin Road</ram:LineOne>
                 <ram:LineTwo>El Centro, California 92244 USA</ram:LineTwo>
             </ram:SpecifiedSPSAddress>
-        </ram:ConsignorSPSParty>
+        </ram:Consepto>
         <ram:UnloadingBaseportSPSLocation>
             <ram:ID>UBADE</ram:ID>
             <ram:Name>Argentina </ram:Name>
