@@ -6,7 +6,7 @@
                     xsi:schemaLocation="urn:un:unece:uncefact:data:standard:SPSCertificate:17 ../Certificado%20fitosanitario%20de%20exportaci%C3%B3n%20(XSD)/data/standard/SPSCertificate_17p0.xsd">
     <rsm:SPSExchangedDocument>
         <ram:Name>NULL<!--</ram:Name> se comenta el cerrado de esta etiqueta-->
-        <ram:ID>F-C-06025-07701049-7-N</ram:ID>
+        <ram:IDS>F-C-06025-07701049-7-N</ram:IDS>
         <ram:TypeCode>851</ram:TypeCode>
         <ram:StatusCode>70</ram:StatusCode>
         <ram:IssueDateTime>
