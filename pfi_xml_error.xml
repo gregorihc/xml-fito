@@ -7,11 +7,11 @@
     <rsm:SPSExchangedDocument>
         <ram:Name>NULL<!--</ram:Name> se comenta el cerrado de esta etiqueta-->
         <ram:IDS>F-C-06025-07701049-7-N</ram:IDS>
-        <ram:TypeCode>851</ram:TypeCode>
-        <ram:StatusCode>70</ram:StatusCode>
-        <ram:IssueDateTime>
+        <ram:TypeCodes>851</ram:TypeCodes>
+        <ram:StatusCodea>70</ram:StatusCodea>
+        <ram:IssueDateTimea>
             <udt:DateTimeString>2018-09-14T11:15:31-05:00</udt:DateTimeString>
-        </ram:IssueDateTime>
+        </ram:IssueDateTimea>
         <ram:IssuerSPSParty>
             <ram:Name>Animal and Plant Health Inspection Service Plant Protection and Quarantine</ram:Name>
         </ram:IssuerSPSParty>
