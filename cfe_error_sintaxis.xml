@@ -5,63 +5,101 @@
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                     xsi:schemaLocation="urn:un:unece:uncefact:data:standard:SPSCertificate:17 ../Certificado%20fitosanitario%20de%20exportaci%C3%B3n%20(XSD)/data/standard/SPSCertificate_17p0.xsd">
     <rsm:SPSExchangedDocument>
-        <ram:Name>NULL<!--</ram:Name> se comenta el cerrado de esta etiqueta-->
-        <ram:ID>F-C-06025-07701049-7-N</ram:ID>
+        <ram:Name>NULL</ram:Name>
+        <ram:ID>qRtFJssNzUNFuzMcgYebAqmRhdXIBFurc1Yq3f502iKOyPABZMDDpKW08PGe</ram:ID>
         <ram:TypeCode>851</ram:TypeCode>
         <ram:StatusCode>70</ram:StatusCode>
         <ram:IssueDateTime>
-            <udt:DateTimeString>2018-09-14T11:15:31-05:00</udt:DateTimeString>
+            <udt:DateTimeString>2024-01-30T17:14:51.195Z</udt:DateTimeString>
         </ram:IssueDateTime>
-        <ram:IssuerSPSParty>
-            <ram:Name>Animal and Plant Health Inspection Service Plant Protection and Quarantine</ram:Name>
-        </ram:IssuerSPSParty>
+        <!--<ram:IssuerSPSParty>
+            <ram:Name>DooocKs9wED4xcbuxMAgxifSGXMUNiwxnzueoTtVJAAKjhwevMMzLXXwr2dxqeRdFEj6XJQoTnQp1hLsgms5oh7VyMMyen2iUOT75cdRZxy9CaoGvWYjrr5IPvlQ7X2Gm04p9NlRpSO6KiU7GLO5LCN7W85mIKZrdgX1uo0eBxKz5mBQlhfmGWgKrCmUW3IDZixcdlpA8Zpy8VsgV9WVbKNKzLxojFK0ZSDGsjX28CEBPxfp3ywUhZOtYO54wDJ7</ram:Name>
+        </ram:IssuerSPSParty>-->
         <ram:IncludedSPSNote>
             <ram:Subject>SPSFL</ram:Subject>
-            <ram:Content>5</ram:Content>
+            <ram:Content>52</ram:Content>
         </ram:IncludedSPSNote>
         <ram:IncludedSPSNote>
             <ram:Subject>ADEDL</ram:Subject>
-            <ram:Content languageID="en">Import Permit Numbers: AR-22773, AR-227775, AE-227776, AR-227778, AR-227780, AR-227781, AR-227782, AR-227783, AR-227786, AR-227787, AR-227788, AR-227789, AR-227790, AR-227838, AR-227846, AR-227847, AR-227848, AR-227849, AR-227850, AR-227852, AR-227855, AR-227856, AR-227858, AR-227859, AR-227843, AR-227844, AR-227842, AR-228762, AR-227857, AR-227791 Presented.
-TOMATO:  The parent plants were officially inspected during the actual growth and found free from Potato spindle tuber viroid, Tomato ringspot Virus.
-BEET:  The parent plants were officially inspected during the actual growth and found free from Heterodera schachtii.
-ALL SEED IN THIS SHIPMENT IS FREE FROM TROGODERMA VARIABILE.</ram:Content>
+            <ram:Content languageID="en">C0DpOMMsaQ0VyQmi9qZ35Sv0bgh2QP5GqpT6kngFyGBrvGWlDeetmx0Df7e1TEoCWOrgTFM9WCMALJXR</ram:Content>
+        </ram:IncludedSPSNote>
+        <!--<ram:IncludedSPSNote>
+            <ram:Subject>ADEDL</ram:Subject>
+            <ram:Content>DFGG 1111</ram:Content>
         </ram:IncludedSPSNote>
         <ram:IncludedSPSNote>
-            <ram:Subject>ADDIEDL</ram:Subject>
-            <ram:Content>2018-09-14T00:00:00-05:00</ram:Content>
+            <ram:Subject>ADEDL</ram:Subject>
+            <ram:Content>2016-04-22</ram:Content>
         </ram:IncludedSPSNote>
+        <ram:IncludedSPSNote>
+            <ram:Subject>ADAOEDL</ram:Subject>
+            <ram:Content languageID="en">The shipment was lab tested and found free of Agrilus planipennis</ram:Content>
+            </ram:IncludedSPSNote>
+            <ram:IncludedSPSNote>
+            <ram:Subject>ADAOEDL</ram:Subject>
+            <ram:Content languageID="en">Ceratitis capitatais absent in Argentina</ram:Content>
+        </ram:IncludedSPSNote>
+        <ram:IncludedSPSNote>
+            <ram:Subject>ADRP</ram:Subject>
+            <ram:Content>4</ram:Content>
+        </ram:IncludedSPSNote>	
+        <ram:IncludedSPSNote>
+            <ram:Subject>ADRPN</ram:Subject>
+            <ram:Content>3214356</ram:Content>
+        </ram:IncludedSPSNote>
+        <ram:IncludedSPSNote>
+            <ram:Subject>ADRPR</ram:Subject>
+            <ram:Content languageID="en" >change in consignee</ram:Content>
+        </ram:IncludedSPSNote>
+        <ram:IncludedSPSNote>
+            <ram:Subject>ADRD</ram:Subject>
+            <ram:Content>2016-04-22T13:53:08-04:00</ram:Content>
+        </ram:IncludedSPSNote>
+        <ram:IncludedSPSNote>
+            <ram:Subject>DMCL</ram:Subject>
+            <ram:Content>Lot number :8888</ram:Content>
+        </ram:IncludedSPSNote>-->
+        <!--Part2-->
         <ram:SignatorySPSAuthentication>
             <ram:ActualDateTime>
                 <udt:DateTimeString>NULL</udt:DateTimeString>
             </ram:ActualDateTime>
             <ram:IssueSPSLocation>
-                <ram:Name>El Centro, California</ram:Name>
+                <ram:Name>kn0JuYWenn2OMA3132L3kQ4lU05AT7rziP4FdAeQeaXOsL9h71mVhutZ7nzCZLexgKxFS8f3uVhIfM40hhRLAftPj6O2ldmEzjBt1b9wdEkm4ONjc9p979skkSkGaKWBR20q6CorauCY2GEupkxniJkwarl4LTHa8N8k8YrBbPUwC21JwZfCV4fzuN2Ki5H5Q6QOoctvxoYsSZWPWWg9xm4UQ8xnaor36lnhkxXyCSfB8YVIBOAaiDo0UiXF2EC9</ram:Name>
             </ram:IssueSPSLocation>
             <ram:ProviderSPSParty>
                 <ram:Name>NULL</ram:Name>
                 <ram:SpecifiedSPSPerson>
-                    <ram:Name>Paul Deol</ram:Name>
+                    <ram:Name></ram:Name>
                 </ram:SpecifiedSPSPerson>
             </ram:ProviderSPSParty>
             <ram:IncludedSPSClause>
-                <ram:ID>1</ram:ID>
+                <ram:ID>Xy</ram:ID>
                 <ram:Content />
             </ram:IncludedSPSClause>
         </ram:SignatorySPSAuthentication>
+        
     </rsm:SPSExchangedDocument>
+    <!--part2-->
     <rsm:SPSConsignment>
         <ram:ConsignorSPSParty>
-            <ram:Name>Emerald Seed Company</ram:Name>
+            <ram:Name>Ta7rSumG2tx0EVg0hDD46flfHlO5PHkD1xb5RWcZnZb8Aa0UKfMDuYU6IIhsJLXt3Lfqc08abCRSO6NBi43qUYFCgLr2ffWzRMyBe4GW5aLHhDrlEkiL48XToT5y21DhUPYdUUK2PfaFwQBzzDSaRF8ockBoudp14IEQgm32qHz1sYMFbH9Siq2yGXMGrcdLEIAYDLV8xEDMFdzv9jrPSTp7s3S9Ed4ihPfgLQyQeUSMeUFxLE8fnzlgPhaTyys4jwjuCKgEMBYMLNuOTDuHhc6g8HlUm2tdRr2TOPXm5S4No7yh3IeIBPX03PT4ihORVWhUpFn2CIYIAV078GA04lTvUqAngNktxHerbie0mJ0wcqIKXHZLfwQrl7VXxIbrwfK0myAygA8hNo9ap02hAInzlidXDM9AXx6Z5VnpWSGy18D6namaERQVyXiUmCiYKN</ram:Name>
             <ram:SpecifiedSPSAddress>
-                <ram:LineOne>1735 Austin Road</ram:LineOne>
-                <ram:LineTwo>El Centro, California 92244 USA</ram:LineTwo>
+                <ram:LineOne>15KWhwrq2UvuAi1V8515BPiIrdc91P5VVb4IL87b1RONIPWc95kfJCGJ9WbTDIkbfg8XqN7F997YtAlLigKC4AjzIka0cBiUA7TqrPByUMk2NVkZgIgH78wAzxAb5mZOwAlU3baZCzqjouFtvRVDqH43ThdgSGgV9ZsS3G2KCVn1OO3akhYFRUfY6yFbRJIlmuxQWTNF</ram:LineOne>
+                
+                <ram:LineThree>Jlx3qy8JBeXrrpr73fc3gp74DjoHdLqd7aURxjQO33flcVD3Jev1xQL2o1K5NHQz3Lrxgd8OV9B5E4T1hp0JZZJOtBiz5Yu5ycBkvoJzqWLccxRGgVWKiJjnUWioYgLQkLOgbl6L8cD3rKnIV2Z4G7q0AsO38R3E7AI4dFlGBRPxeeyIleGSvlSCaNzXARL4NJEGSBpL</ram:LineThree>
+                <ram:LineFour>TCOgrqqdXcCtWkJ6rPdFKFUTtaNDVTEgbbNg0hxYVrecCfrLOGJSCgQQQYATAG1dYDHBkXLlbuRegkttE8ESzAErSGEOMB3llRZVATXlmonVBAkyuGWgQ8dCDrJ0MbMpiba0ZJ40z00Gj2HwkjjcnvXNJpxsBVyDgW6lMQo7nDnxe6XI1SltZ0atr75nJ93CPPsseX49</ram:LineFour>
+                <ram:LineFive>0PvVfvAcEwbmjOhXV9jrucAEYbejq1i06Wqdpbb41GOkOlBehzCaMssQ6WNa0Lt4VT503VInWlslM3nWis1DYKWrhfCS48hKOVkjoarCno0qAfiR2pZGtC4NNADOtYHI2jtZmpPLeYifpQk7Lkcc6V2xaSDey1cMJ8MNpBxSFG3ZR0jU5WB2VVgcPGIxImXOo3dqxQRb</ram:LineFive>
             </ram:SpecifiedSPSAddress>
         </ram:ConsignorSPSParty>
         <ram:ConsigneeSPSParty>
-            <ram:Name>Semillera Guasch SRL</ram:Name>
+            <ram:Name>dw6OMqrpoLfOHugG71bK4yeH7YzZSSdDH8iYls6Sxim4XYNrXqIswQOWVCSO14vvtRpZeP88nqCWRjwQOVcQAD986WmQbjuNRpnY5AXcSZQA9QTGeZcuLKiF4y2ULfnbTiRIyEJ2JKlmeuEbf4Rev5PzutJNdHkL5m8qNmQoVIK3mMbdjuFE6gGIoUUIDPylDRlBmOQvXq4IJ0UAE5LYawckYs8K53NRjE2Id17qtv1JrHxXDQzuqX6LQGInVJQG5WDkWABGzQktkLAl2NMi7DDqeuq5TFI2qybXjB2tXkD9Q9XwgUxTPDNJ9aoaV7PkK2QAz2vr5SgHNf885yoX4zuSTJsFN8zhwkfdlULUacKsG8uAEwBkGgXCjQ5hMNQWEJFKsZf23yvWVnDAObPTClOAq5N1OzgNDKyqXj3zw5f1DW08D7ery8nLTPy9wPJ82w</ram:Name>
             <ram:SpecifiedSPSAddress>
-                <ram:LineOne>Av. Alem 5000</ram:LineOne>
-                <ram:LineTwo>8000 Bahia Blanca, Buenos Aires, Argentina</ram:LineTwo>
+                <ram:LineOne>vUEKbFQwgtCqkfGKjXg3M6SSr2AebjiQXwDEt3cLJBJ9g7FMDgbYzEMnvSaQY3avu6evZGoD8fXEEAXrb7xqEWQBaLqsoj1VTwxQHRc2Dz4j0fvJu49uU7aV05XkHp8GO19m852QYRZwVsXh9rsoTa7QwTWJM7dM9OORQuttBBeH44CgJQXoCC7F0QnRypHC7z3gJ4n3</ram:LineOne>
+                <ram:LineTwo>eJcnH4s0DKTi2yU7o6NCBLwv9dYw83bC0c0ReAevB9xXa9b8B3GHAITEud2ILq7j0uedS2LFpCBXShBOrdbtc9xTwSU1A43m4kAP04a9tSN1KMR8A7TKAVF8Lj2TpHaDYRPyjH41chnEfYJyT2qcjJOho9zzkwLlJBIsUF8Y42co7yJvgI08bGKXMGxta8dxzwnK8Dg2</ram:LineTwo>
+                <ram:LineThree>{addressThree}</ram:LineThree>
+                <ram:LineFour>{addressFour}</ram:LineFour>
+                <ram:LineFive>{addressFive}</ram:LineFive>
             </ram:SpecifiedSPSAddress>
         </ram:ConsigneeSPSParty>
         <ram:ExportSPSCountry>
@@ -72,8 +110,18 @@ ALL SEED IN THIS SHIPMENT IS FREE FROM TROGODERMA VARIABILE.</ram:Content>
             <ram:ID>AR</ram:ID>
             <ram:Name>NULL</ram:Name>
         </ram:ImportSPSCountry>
+        <ram:TransitSPSCountry>
+            <ram:ID>US</ram:ID>
+            <ram:Name>NULL</ram:Name>
+        </ram:TransitSPSCountry>
+        <!--<ram:UtilizedSPSTransportEquipment>
+            <ram:AffixedSPSSeal>
+                <ram:ID>{affixedId}</ram:ID>
+            </ram:AffixedSPSSeal>
+        </ram:UtilizedSPSTransportEquipment>-->
         <ram:UnloadingBaseportSPSLocation>
-            <ram:Name>Argentina</ram:Name>
+            <ram:ID>cC</ram:ID>
+            <ram:Name>lz8P4pwzMyvKtE3M2IjtwXmMzHJpE5lCiiV5GjEHehmieNEZ0YDEG9MWx5dYnm5jVAWfZzJe73D0hePK356nw6qlOVxCnUzqaAlMKQfwuRZy7ZOAQyMblgAUctZsEa7UDlAED3lvozJr2hbQ1uQVHnabrY0MuUBdsubW8Yn31y3p2XCBNotbzk22uiXOZew7TJ0iOg6K4HFnkxqAes9WF0ZsCmyoWdz4JlmwlcFBjO7GnOTRbeZEmAbMKqgB7RhO</ram:Name>
         </ram:UnloadingBaseportSPSLocation>
         <ram:ExaminationSPSEvent>
             <ram:OccurrenceSPSLocation>
@@ -81,55 +129,172 @@ ALL SEED IN THIS SHIPMENT IS FREE FROM TROGODERMA VARIABILE.</ram:Content>
             </ram:OccurrenceSPSLocation>
         </ram:ExaminationSPSEvent>
         <ram:MainCarriageSPSTransportMovement>
-            <ram:ID />
+            <ram:ID>riRnIBV7GVBvMfA76UWQ3vUFbz7MSWQSlMgpgCyGd8cVVxj2oTer25VtbvvJLz1CTWWVpopoJUCltfAOwBW87HbG9BxVqSKaDPn1fWcvZX5SQOoF4QugqBfDwozg2IWBsK9cZ9zNMbBYhg0LMHYCVaQWiU6KbN3FS2Hu1mPfTDWUFuoId31G1NAG90alrz107ihX3FiYFhd7tkIiaJYQWmdpqYyem9fceff6nyzlJ4yfpQ9WXu35EBJtMColAZhM</ram:ID>
             <ram:ModeCode>1</ram:ModeCode>
             <ram:UsedSPSTransportMeans>
-                <ram:Name languageID="en">Ocean Vessel </ram:Name>
+                <ram:Name languageID="en">a5s9ypngBE28a9SPKl6ilcketRKvnwUpuIChvmtLDoIfeX3Izvz5WgujbpsQkRN4zyskdY3qE5tCxlVeyYcOCx3jzm7EoQLdplmzXvvEessUOMkb4khqbNnDZU8bIPLOHIkgRqsfZjs9ytSTgqMWnqDBaH1lEAiHefIdYJ5SBC2w064HRR8K97FLUFU5bFnBS4vWWg3FlL4T1ELeTZZTOKqvqs3I9ZD0WHuzezEWUPLv9F5IV8wR1HlOrR0SNYYH</ram:Name>
             </ram:UsedSPSTransportMeans>
         </ram:MainCarriageSPSTransportMovement>
         <ram:IncludedSPSConsignmentItem>
             <ram:IncludedSPSTradeLineItem>
-                <ram:SequenceNumeric>0</ram:SequenceNumeric>
-                <ram:Description languageID="en">Seeds</ram:Description>
-                <ram:CommonName languageID="en">Squash</ram:CommonName>
-                <ram:ScientificName languageID="en">Cucurbita maxima</ram:ScientificName>
-                <ram:IntendedUse languageID="en">Planting</ram:IntendedUse>
-                <ram:NetWeightMeasure unitCode="LBR">253.1</ram:NetWeightMeasure>
+                <ram:SequenceNumeric>1</ram:SequenceNumeric>
+                <ram:Description languageID="en">5j2HzcpHAFAUhK5ckuGHfowMTX3D2EMsDnXq3LzepsM0QA1M75K73YpkCmBSr0ZVixkY7m77BfQcSXBmyCq5a8C8fO1YVz1csJ2iWck2oybUxQXg02kFz5XwBLFWDGaRRLlVGaiarxK2a5OoFRNDE9buyt6de19xq1xoOBWuit3tOd038ca5LYKqRm6GDgnbrLRui8E18NdsUGOrdljc5lPcgsvM8YugkrtDlzc71mQCL3GFqu1JvM2CxV9yK5O8</ram:Description>
+                <ram:CommonName languageID="en">0ifng9Uy9aBQ3am2woSTSMKeKIqlZlaPkS3SrlN7i7i8VX3BuDkvJZ3T9zQsnxrBB1vstQEnPtEVOKVuuuwjA71y0SeqnUjcgjLUeRdX1jK1fDK8XxMYreE8E7RZE0BtFkQCO8o9oEug4bSfJtKrH9ONUuxERxjTSyY84LrAXL68ySudiUipMgADawLRFflWfVsrzSZlOgFyZq4c6WuS7w1ki1l6LJGhlV3K6oGU33miQKliijZHE0PVFCF4pHJg</ram:CommonName>
+                <ram:ScientificName languageID="en">kFZ7oMWGW1MboywlE4N7KbFXVeN3G8EWHQ5Eggbkc246P8qF81EE7DiT7hlQh0segVJhmlXyrRtsvePy2LXYZMOqZc2da3nu5660Lzx6Vc6qd9ZFuz9PKpB5H47Z7ZTZGNJCeAW3VlWh4F7VLrQ1JccFAqlJGkiYiKtM5K6IUNgIamCP7cjiqMOUSXYDJfvodWTEYROeA2VoUyAqGcIPFH4DF9btiUeLzEqHtqOCyHEXYu4b60j3NYAtTWf6dWyu</ram:ScientificName>
+                <ram:IntendedUse languageID="en">Mo5EK6GXTkB1RIiauUACfHsid7ixUXxc9YCLLB6b5uBzJ2rrMSoBdewlr4z94rH0TEOC8p96ondR6oYxzUfjNXOP2OaIV37vDPp3dbVjrB2Z1UZNgQ01W0VFuPkYyplaI4huIVoB8fXBn2RzrpN34C6yifoXnmej3BH8VDOBsPipAKAzJOblA7LE0NFAJ7wVaRDil8hMbWZqGIJCNLVSRN8v7QjMHZ3AB8VbBDjBobk8VJAQAR0yANUgB0onKriH</ram:IntendedUse>
+                <ram:NetWeightMeasure unitCode="LBR">39039418768437420032.1604</ram:NetWeightMeasure>
+                <ram:GrossWeightMeasure unitCode="KGM">68320704551450738688.8240</ram:GrossWeightMeasure>
+                <ram:NetVolumeMeasure unitCode="MTQ">4964130402059940864.5526</ram:NetVolumeMeasure>
+                
                 <ram:AdditionalInformationSPSNote>
                     <ram:Subject>OPTND</ram:Subject>
-                    <ram:Content>All in 235 cardboard Cartons and 19 Polywoven Bags</ram:Content>
+                    <ram:Content>3Uxof6BFKv5M4HApoSheKNEufh6OFxmSZH6sOfDluCSkUsvhAe6PHkqAdHpfj080OzY9h1gZV02yahu741XHMy58FfXlk99er6bbjzW6tudtDKYYnmgjvlvqISLUv0keyvv2tyiKOmIDV8Mni4trqsewHalCg0HY58bhaP1EjyJULsqyG4wTyuUS8FWsHAZAHSy4dh5EkaMghm5c0VfNYUaotqpITdPYug3gWsUZrRAfXhmd6aCN1KyyEMZwc82PaxM1Rm3UeFr3h9fvIJQjJYXqmqOVDXmvwKh3OKkj9QzOyRUG9n8gJj2rx7WHJlKsQFbdNK9C2Ob03B6bdGqitA1AZowVxicBrWbLVWB7OjP3eq3cT6pjVjDSyg4lY8G3i0l06LggraKbBACP61E0eDZD8dH2SKrFa23VjgBscCrgvDZKQ3wfI6Gfpn9eU1vPodzpLI6ZRxl0gihxAQ6tha84DVc43W2orZk2mGiZzSl0sDrJ3B1I3ClslGJLOcmH</ram:Content>
                 </ram:AdditionalInformationSPSNote>
                 <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>RPCST</ram:Subject>
+                    <ram:Content>3</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>ADAOTLIL</ram:Subject>
+                    <ram:Content>G6wo39p5xRV8UUPRCJmZwtNMI41x5cZbMQ1tdszm0ZKcBB72EEmVkl3kyvvKZk3ajw7JAmJXBrVKVuovAlUtYhmqVZTR2O0J2oZgugY7pbVroP2arHYG70HLdTp8b20aEoP24qTAkGEeZSoIKRPvHPcyNdf7WvERIBQJVJvw1fynZLAUMUp3kdgtCvYbKJmoZJJJlFz7MnNCcV7zRC57GKyGfMv6L2WVwnU18HPaxPPgGzO6TUSRZb5JCN5VeeeNRWBwQpxWfAEoNWMgTx6ksAX7V9JUYqCXjl3Y2PqsdEqHQ7MSftiGXYpuB7MF27Gx4eCtdBPYln48qhHUneifNfRnY4covj0qgXNPe10GkYyH3ViuWz43vd0ghg3eZqJzcrnRKukDNSaEm8O3wFiqOFvnjLKIJEapXHK54WXwHJQDXaZHEwNIxvWA0iEYddqqCKwNJBeggqubr3LSj88Psv7p8kRvntMoNYeDgz7Fh0wNOhM506E7ZCA8MbfvDUFK</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>RPCRF</ram:Subject>
+                    <ram:Content>Xn95GGAtNByP0O5lhjGntSu8TmFUrJnqkfnfyvO15zJDUTYRikwACL1CmBrf</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote> 
+                    <ram:Subject>RPCOR</ram:Subject> 
+                    <ram:Content>False</ram:Content> 
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote> 
+                    <ram:Subject>RPCTC</ram:Subject> 
+                    <ram:Content>True</ram:Content> 
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote> 
+                    <ram:Subject>RPCPK</ram:Subject> 
+                    <ram:Content>True</ram:Content> 
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote> 
+                    <ram:Subject>RPCRP</ram:Subject> 
+                    <ram:Content>True</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote> 
+                    <ram:Subject>RPCOC</ram:Subject> 
+                    <ram:Content>False</ram:Content> 
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote> 
+                    <ram:Subject>RPCNC</ram:Subject> 
+                    <ram:Content>True</ram:Content> 
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote> 
+                    <ram:Subject>RPCPC</ram:Subject> 
+                    <ram:Content>True</ram:Content> 
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote> 
+                    <ram:Subject>RPCAI</ram:Subject> 
+                    <ram:Content>True</ram:Content> 
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>OQV</ram:Subject>
+                    <ram:Content>8</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>OQU</ram:Subject>
+                    <ram:Content>jZLbGbWnIpbuDBXTZkfJDtFqw1upsHsQlvHfOKpmRuqrDNCFPA</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+
+                <ram:AdditionalInformationSPSNote>
                     <ram:Subject>DMTLIL</ram:Subject>
-                    <ram:Content>Emerald</ram:Content>
+                    <ram:Content>1lnY4onUqOMWzFIM4QzzV3eONaEjD17poGlHKhzuJI5LUXRcy9tCwNl3vZ0dpCM4HYEGQ3t3D9mamZfRPWXF37qpnNxnYvSwwh8X6thKXH7zoVTwZW72qsvNbIYKccIWGEZgmMNOiTlUGOX5K9EK14aVv6hve4iI6dIwtaLHVAEORBy8q3Zu3lcqwPjmJcSrewyeMOZMOfe9QQkHR6fmEvX0IbNehZe8lf76w6pLqPL3kk1mkg04UxsmtLukiYHSikS0aGqBRgOCBQNUUiKbh4OCC9EIHzfHwP50HymdY5q7piPNVjZxwTbkqEfMkC1OuhFqxW6DnfsZfNbGfXXbklqiS0uOSBDjpLHi5x0jVnco2vWZJbsIklpIGg0Qj9qN9bW1IadHTVkdFOpSox9eDWTHPR0pX4Sz0XY8OI9dS4ZrrpkWA7O9WALAP1InqWSINueI1PRWufGUly5bZFyfZ29ZTEWxnLliIDk2iA52U66TIlwoVZdauFPmZMJMZKaP</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>ADTLIL</ram:Subject>
+                    <ram:Content languageID="en">OcIFs7p7PR2VwOPXZCmf5LpG5MHSxOmOIcP7Vbog61ndqrjAK1VhxQojXMH6TFKDJHLio7gmr4z9I5NkDr3LhuhBGYHuTu2PsBdQDTsuSPkYhkZJ9Uc29hMn8U43bEa75F6lX2uzxbMXpFyjEXVqTiaQGUFrrvfKhlQhluIMU5wptiFCvebUVCqib3NrTW2CvHBg1JToKw8t8gAj5xxpZAJdyd1Wrfk57fMq4t9nFdSOpNLSwkdFBtVCNV0QVZerj9KUfhFCQiJwcxlZhEpyaMJyjb7FsQGzfDT8LknWDpGXU9Ivwwu4mZrGaMMZaPWCTARxzlvrK4f2P9NzgOnCzOStDDx7DQ3NkJnadAXObY1DAOOqAAihO1cA7mmrFmzeIYPIusMcIqrGuWybACJ2OmhM3UH5C3ntODxNOXsxFcrdgxmKfrh0bd3QNoJjdYwoKZ0CtvCmrlrurm6b67seOYdaCVCaDIVosY6RmpWNhku7UwoZm5VF92ToBzYWC4U7</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>ADTLIL</ram:Subject>
+                    <ram:Content languageID="en">yKzqVXQFAdigmow5loEfVhaMlljualB2LxmqhYIioG4wEEdxM7hRJU4VqOY9yNrl2DVQWWcJLJBHoMD99H0Sqv142bz62MDOrbuxTPVLjZXFb8lmFadlfoO26Aj2hspyv7aVUu23v5Tvqjp7QLMG4RylxwrREG9N42E0diN1HQqzk82i9AL31I5KZ1qMGWLJPT27UpNooUovDvwnbnYDimHCt7MgRo9qaMpegNzwsGmMdZjidyhBAJF6kQfeY5q8A1EbSVSzjG8Aq8rkEa1BCNgo0GgGWDFpPvNUrZrTqmCNzRVRGtdx4iP7y2NWxRKm5C4sNfVEJ97fPI8NlPdruBfjIey6YdJlBrjiUtosOHxHk5nwHuHn6LHE1SgiFR9UwnQ11WnLEcxGdmQ2aJtp9XMDniyQDeFvgElmu9G64lMNd8xZsCFwaM9zD4pIDeevj3HzrtH93yCQ8TEROKZ7pLABsXBzOxwBk4H69pkYBWGo7RmqHsyafQ0vKYHVoPEF</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>ADIPTLIL</ram:Subject>
+                    <ram:Content>o8I4Ss1wTZpdrAwQbBSVKm9HwFOnOuuF3OskYkZiSGo3TE8M6c4dvP4vrVOHXVPEFna9JnOIK8FFbEptc1w08BBiBj55dFxIVj5icz5UbR4j3V2L33dwGNg9TvMHgVmUnziCIYuc8ndnUrhcz1QUS5jQ5VhinrJi9JkNmmqce3EGKVT8y0JfqLEatUVxC3ncbkZ1Ujm0YcHnRflqyrpWo9W9cmTys8fnZ3UkxNuJGsWq5v473eZsxn5IFS7fUMcX</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>ADDITLIL</ram:Subject>
+                    <ram:Content>2023-10-05T14:31:46Z</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>ADAOTLIL</ram:Subject>
+                    <ram:Content languageID="en">dmbSc4pTHfZmj62WbaC42ChrnPxtwUjoO8PB0Mq8WiM0lWJcHZXxQunC4o21FxqQJe2hmPZwg1QQua3v2ZsBU6nwKuRgjIAbARKm37PgPXzJzHVatcvsKG4MKwvXzKxKYVL7ZnjtZIO97Fs4hIrSr1YFDkpdpMiVhb2DJ5b34Mjvfl84pN0oAL9rYRAHt8BVgvzkD4BiY3uC3CjcZ9gFixOLqwVHxydE0sE6mDV2iCbYSKPdz7ZIvlHC6lsrsyhNcD8zoqWu959lAgVMxqIw72o8xmrqfueyC4613hA8xABOSFg8KUduQUP9yy9ffqaa5Km6UYD2MdLDpUuolQUWOVgQnH5AmT2pSejfnSoCVi9IwZu7YL5kSzdHKyftQi42XDWffgzxucp9ra8T4HOGDHo2GAfRwE2QMBhLOyc0SoBRm4hOM4Vv3xqPRiitF4r4q5WEJWwWB2pZ8AwmP1EOpg4RqLF8PCV3Fg7mnN6etcyvX4Ln2JNkMtICg0srh23d</ram:Content>
+                </ram:AdditionalInformationSPSNote>
+                    <ram:AdditionalInformationSPSNote>
+                    <ram:Subject>ADAOTLIL</ram:Subject>
+                    <ram:Content languageID="en">XMYRHVkzeENS3mMlKabjZTRkbcodtoICR4YHKCq9Rmt8ZfamO9WgaPNnIeAlbVxkTX1a6uHSgd2ttZgO1Zn45jMvYayOWTvzAjBdY8WHiuBFdA0c5EIkGFrr2oBNXMwwAL0zmVqwCWAhCymCXhhyOJSlUjJLAxmw2pYCYxYqRl9pof60GNACMn8zfKP0WSA1m09lCFPOy88vo6P0tLmCwKX1lHOV6fjIi84SoX0xCf63uC45NtNuWZYOzuLcf0gV8mWuBeNIJGWjCDDX0PVHW9QQSEKmXNqZTTmHu3oNCxvN33L3WhCeKv65OlIyi2Na0daKyUHqpmNNNx8Wyn59GGKh3zXYAD7lo67xlmQ4qfHyByf2tUsVBP4jFdNAKU9H4vxzBHH8Mc6bsZ8Td3NUZVoKro9IRfFLRwxlzv5SgPeSBO99dB3pf8xfEbgZf4vUna6Psnh1pRBj1DjWZTjjbnbqWQuR2kU9Kr4wHYBIPBoIYOWPjzkBXHXIZOVSjntz</ram:Content>
                 </ram:AdditionalInformationSPSNote>
                 <ram:ApplicableSPSClassification>
-                    <ram:SystemName>IPPCPCVP</ram:SystemName>
-                    <ram:ClassName languageID="en">Seeds</ram:ClassName>
+                    <ram:SystemName>59</ram:SystemName>
+                    <ram:ClassName languageID="en">bxJXQkzI</ram:ClassName>
                 </ram:ApplicableSPSClassification>
-                <ram:OriginSPSCountry>
-                    <ram:ID>US</ram:ID>
-                    <ram:Name>NULL</ram:Name>
-                    <ram:SubordinateSPSCountrySubDivision>
-                        <ram:Name>USA</ram:Name>
-                        <ram:HierarchicalLevelCode>0</ram:HierarchicalLevelCode>
-                    </ram:SubordinateSPSCountrySubDivision>
-                </ram:OriginSPSCountry>
+                <ram:ApplicableSPSClassification>
+                    <ram:SystemName>HS</ram:SystemName>
+                    <ram:ClassCode>w5aQOz</ram:ClassCode>
+                    <ram:ClassName></ram:ClassName>
+                </ram:ApplicableSPSClassification>
+                <ram:ApplicableSPSClassification>
+                    <ram:SystemName>EMfC8BrB</ram:SystemName>
+                    <ram:ClassName languageID="en">fy436xYRmfcsenPZGxmE4BBULtGZEXe0QebJJ4FSKjK7HfFlnT07WMCC3tBJRfL8hMQ7jV</ram:ClassName>
+                </ram:ApplicableSPSClassification>
+                <ram:ApplicableSPSClassification>
+                    <ram:SystemName>zv2rMlyb</ram:SystemName>
+                    <ram:ClassName languageID="en">xZupaxX6DLmrnziWeeeZPPDo99PUfW3dkeEqI6E94WS9ewKpopWtmGuSAQY6SVZo1tMQZw</ram:ClassName>
+                </ram:ApplicableSPSClassification>
+                
                 <ram:AppliedSPSProcess>
                     <ram:TypeCode>ZZZ</ram:TypeCode>
                     <ram:CompletionSPSPeriod>
                         <ram:StartDateTime>
-                            <udt:DateTimeString>2018-09-13</udt:DateTimeString>
+                            <udt:DateTimeString>2024-01-30T17:14:51.197Z</udt:DateTimeString>
                         </ram:StartDateTime>
                         <ram:EndDateTime>
-                            <udt:DateTimeString />
+                            <udt:DateTimeString>2024-01-30T17:14:51.197Z</udt:DateTimeString>
                         </ram:EndDateTime>
+                        <ram:DurationMeasure unitCode="HUR">5176856191.4383</ram:DurationMeasure>
                     </ram:CompletionSPSPeriod>
-                    <ram:ApplicableSPSProcessCharacteristic>
+                    <!--<ram:ApplicableSPSProcessCharacteristic>
                         <ram:Description>TTFT</ram:Description>
-                        <ram:Description languageID="en">Treatment Date: 2018-09-13; Treatment Name: Liquid; Chemical: Thiram; Concentration: 6 oz / 100 pounds;</ram:Description>
+                        <ram:Description languageID="en">01WYreBPQr</ram:Description>
+                        <ram:ValueMeasure unitCode="CEL">{valueMesure}</ram:ValueMeasure>
+                    </ram:ApplicableSPSProcessCharacteristic>-->
+                    <ram:ApplicableSPSProcessCharacteristic>
+                        <ram:Description>hFkxWdV7TszYEN5Cd4UYCpJaPFekZzY2UgSoGKEzaRdPlkBG4WoizLBqd6VTcKo6UeTV3Z5wBlDrrG8l3At0uOVJ6V8gZfT5y1TfJeF345UjcmsAwTBoee6N3srF3V6Kbu2hgAf3P7YUfkb2vdaYujqZ1Ps9rt0bkrzy4ti1wlbkFfv4LLrc1cHCydzCwhQdyO1vQLEFY91QlzfBs5MAIGJC67smXSgv2lpIzxRx2kXybChzQ5OS3XxteVg2BHID</ram:Description>
+                        <ram:Description>Zl2SY0mIkzJJU5hr06hWuNvtdsWRAb0WnJm3e0HKJgm6v5Zp5o6XGHlVUQ16dKlEJZazbfDuPqPpXTxrEFFmwdEoqLDC0fgns9WPeT9RLwYT4ncAiBNpWzPtstX6qJ6D5RMf6Nocn358sn3WwlkppzP1bX1Zj4hWKL2PM0cntbcoza26HAjuDdPUmRRNmUt6G1G6T5jrE4UgJ4EE2itdxlJexTLmqPiILZomfVjjZEWIbsKFFxHsTqqb9PogWdZ4</ram:Description>
+                    </ram:ApplicableSPSProcessCharacteristic>
+                    <ram:ApplicableSPSProcessCharacteristic>
+                        <ram:Description>KRJsaAfIVWevIEOCY23Bc48ftDyL1oi8k7MmH5VcTMpjCjsP2PNBh3AwG0ggOviSGEeXBJIcGFXAw32phzMOw3MMkNUCRboOOIsPsmV4D7XQpKZ19NMaUZka0tMEnzZ9GySp5gD9NIM2pE65CVwM7gg40bT0SidSAY8QAK0w6fY3jlh05uOoYg7CSDeiPfv433ldMKVoBVk57lGuWYbrLQ2HTrPPyUOBQbWPBXUdEAR20e31EPLfnbX4WtmH</ram:Description >
+                        
+                    </ram:ApplicableSPSProcessCharacteristic>
+                    <ram:ApplicableSPSProcessCharacteristic>
+                        <ram:Description>2F8</ram:Description>
+                        <ram:Description></ram:Description>
+                    </ram:ApplicableSPSProcessCharacteristic>
+                    <!--<ram:ApplicableSPSProcessCharacteristic>
+                        <ram:Description>TTFT</ram:Description>
+                        <ram:ValueMeasure unitCode="CEL">YhNWl7FcSUc5G0PxV86yF09kn89k9NoDvXVlRXVpano4luXCSytuOPBRMCrng5MiHqfY6w7gmXaciBYqi3003N901Err60b7uYH7</ram:ValueMeasure>
+                    </ram:ApplicableSPSProcessCharacteristic>-->
+                    <!--<ram:ApplicableSPSProcessCharacteristic>
+                        <ram:Description>{chDes7}</ram:Description>
+                        <ram:Description languageID="en">{chDes8}</ram:Description>
+                    </ram:ApplicableSPSProcessCharacteristic>-->
+                    <ram:ApplicableSPSProcessCharacteristic>
+                        <ram:Description>{chDes7}</ram:Description>
+                        <ram:Description languageID="en">{chDes8}</ram:Description>
                     </ram:ApplicableSPSProcessCharacteristic>
                 </ram:AppliedSPSProcess>
+                <!--<ram:PhysicalSPSPackage>
+                    <ram:LevelCode>{levelCode}</ram:LevelCode>
+                    <ram:TypeCode>{physicalCode}</ram:TypeCode>
+                    <ram:ItemQuantity>{itemQuantity}</ram:ItemQuantity>
+                </ram:PhysicalSPSPackage>-->
             </ram:IncludedSPSTradeLineItem>
         </ram:IncludedSPSConsignmentItem>
     </rsm:SPSConsignment>
