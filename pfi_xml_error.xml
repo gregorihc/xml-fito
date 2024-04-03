@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rsm:SPSCertificate xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:21"
-                    xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:21"
+                    xmlns:ram="urn:sgcan:intercom:data:standard:INTERCOMSPSImportPermitReusableAggregateBusinessInformationEntity:1"
                     xmlns:rsm="urn:un:unece:uncefact:data:standard:SPSCertificate:17"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                     xsi:schemaLocation="urn:un:unece:uncefact:data:standard:SPSCertificate:17 ../Certificado%20fitosanitario%20de%20exportaci%C3%B3n%20(XSD)/data/standard/SPSCertificate_17p0.xsd">
     <rsm:SPSExchangedDocument>
         <ram:Name>NULL<!--</ram:Name> se comenta el cerrado de esta etiqueta-->
-        <ram:IDS>F-C-06025-07701049-7-N</ram:IDS>
+        <ram:ID>123456789PE</ram:ID>
         <ram:TypeCodes>851</ram:TypeCodes>
         <ram:StatusCodea>70</ram:StatusCodea>
         <ram:IssueDateTimea>
